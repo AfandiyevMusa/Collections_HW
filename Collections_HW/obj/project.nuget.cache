@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cidqRATyOWV4r2PlJweAWhwnDDZt3AsOZr11vGz73iO/uxEnXJMmkjX/gxshO310UkLPwAURJz8tri7UBtbicA==",
+  "success": true,
+  "projectFilePath": "/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/Collections_HW.csproj",
+  "expectedPackageFiles": [
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

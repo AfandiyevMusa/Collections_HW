@@ -1,0 +1,14 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/bin/Debug/netcoreapp3.1/Collections_HW
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/bin/Debug/netcoreapp3.1/Collections_HW.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/bin/Debug/netcoreapp3.1/Collections_HW.runtimeconfig.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/bin/Debug/netcoreapp3.1/Collections_HW.runtimeconfig.dev.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/bin/Debug/netcoreapp3.1/Collections_HW.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/bin/Debug/netcoreapp3.1/Collections_HW.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Collections_HW/Collections_HW/obj/Debug/netcoreapp3.1/Collections_HW.genruntimeconfig.cache

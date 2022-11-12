@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{290E247D-6EC8-4864-9797-1A2D64AAD744}|Default">
+  <MonoDevelop.Ide.ItemProperties.Collections__HW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Collections_HW/Program.cs">
+    <Files>
+      <File FileName="Collections_HW/Program.cs" Line="14" Column="1" />
+      <File FileName="Collections_HW/Models/Author.cs" />
+      <File FileName="Collections_HW/Models/Person.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collections_HW" expanded="True">
+            <Node name="Collections_HW" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
